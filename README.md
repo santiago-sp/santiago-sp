@@ -14,7 +14,7 @@
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
-- 📫 Cómo contactarme **adampithewan@gmail.com**
+- 📫 Cómo contactarme **santiagotech.dev@gmail.com**
 
 - ⚡ Dato curioso :- La comida y la música🎵 son mis razones para vivir.
 
