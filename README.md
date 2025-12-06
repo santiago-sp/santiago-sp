@@ -1,18 +1,13 @@
 <h1 align="center">HOLA 👋, SANTIAGO SALAS </h1>
 <h3 align="center">Estudiante de Tecsup - 4° Ciclo.</h3>
 
-<h3 align="center">Visit my Website Here.</h3>
+<h3 align="center">VISITA MI PORTAFOLIO</h3>
 <h4 align="center">https://adam-pw.vercel.app/</h4>
 
 <br>
 <br>
 
 <br>
-
-<p align="right"> <h3>Vistas del perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Vistas%20del%20Perfil&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
 <br>
 <br>
 
