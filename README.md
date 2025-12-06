@@ -78,17 +78,11 @@
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## 📊 Lenguajes Más Utilizados
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-sp&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="santiago-sp" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiago-sp&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff" alt="santiago-sp" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiago-sp&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="santiago-sp" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-sp&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+</p>
 
 ---
 
