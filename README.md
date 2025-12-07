@@ -66,6 +66,13 @@
   </a>
 </p>
 
+### Desarrollo Web (Aprendiendo)
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 - Básico" width="40" height="40" />
+  </a>
+</p>
+
 ## 🎯 Objetivos de Aprendizaje 2025
 
 - � Profundizar en **Python** y **Django** para desarrollo backend
