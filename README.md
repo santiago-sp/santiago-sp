@@ -14,8 +14,8 @@
 
 ## 🚀 Sobre Mí
 
-- � Estudiante de **Tecsup Lima** - Actualmente cursando el **4to Ciclo**
-- �🌱 Actualmente estoy aprendiendo **Python, React, Django, Java, Kotlin y MySQL Workbench**
+- � Estudiante de **Tecsup Lima** - Actualmente cursando el **5to Ciclo**
+- �🌱 Actualmente estoy aprendiendo **Python, React, Django, Java, Kotlin, MySQL Workbench y n8n básico**
 - 💻 Nivel: **Básico-Avanzado** en todas las tecnologías mencionadas
 - 🎯 **Siempre interesado en aprender** nuevas tecnologías y mejores prácticas
 - 🔄 Valores profesionales: **Adaptabilidad** y **compromiso con el aprendizaje continuo**
@@ -79,12 +79,20 @@
   </a>
 </p>
 
+### Automatización (Básico)
+<p align="left">
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/n8n-B%C3%A1sico-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n - Básico"/>
+  </a>
+</p>
+
 ## 🎯 Objetivos de Aprendizaje 2025
 
 - � Profundizar en **Python** y **Django** para desarrollo backend
 - ⚛️ Dominar **React** para crear aplicaciones web modernas
 - 📱 Desarrollar aplicaciones móviles con **Kotlin**
 - 🗄️ Mejorar habilidades en bases de datos con **MySQL**
+- 🔄 Aprender automatización básica de workflows con **n8n**
 - 🚀 Completar proyectos personales y contribuir a proyectos open source
 
 <br>
@@ -98,6 +106,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/n8n-B%C3%A1sico-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Básico"/>
 </p>
 
 ---
